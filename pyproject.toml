@@ -1,0 +1,7 @@
+[project]
+name = "selenium-webdriver"
+version = "0.1.0"
+requires-python = ">=3.14"
+dependencies = [
+    "selenium>=4.43.0",
+]
